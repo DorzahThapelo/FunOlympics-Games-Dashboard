@@ -93,8 +93,6 @@ To install Power BI, you can follow these steps:
 
 10.When you open Power BI Desktop for the first time, you may be prompted to sign in with your Microsoft account or work/school account. Sign in using your credentials.
 
-That's it! You have successfully installed Power BI Desktop on your computer. You can now start using it to create reports, analyze data, and build interactive visualizations.
-
 #### Python Installation:
 Ensure that Python is installed in the production environment, preferably using the same version that was used during the development of the dashboard. You can download the Python installer from the official Python website (https://www.python.org) and follow the provided installation instructions for your specific operating system.
 
