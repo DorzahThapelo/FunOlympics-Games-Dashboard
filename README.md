@@ -93,8 +93,8 @@ To install Power BI, you can follow these steps:
 
 10.When you open Power BI Desktop for the first time, you may be prompted to sign in with your Microsoft account or work/school account. Sign in using your credentials.
 
-### 5. Python Installation:
+## 5. Python Installation:
 Ensure that Python is installed in the production environment, preferably using the same version that was used during the development of the dashboard. You can download the Python installer from the official Python website (https://www.python.org) and follow the provided installation instructions for your specific operating system.
 
-### 6. Python Environment:
+## 6. Python Environment:
 It is recommended to set up a dedicated Python environment for the dashboard system. This helps in isolating the dependencies and prevents conflicts with other Python projects in the production environment. Virtual environments, such as virtualenv or conda environments, are commonly used for this purpose.
