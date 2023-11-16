@@ -73,25 +73,25 @@ To ensure a smooth installation and deployment of the prototype dashboard system
 ## 4. Power Bi Installation:
 To install Power BI, you can follow these steps:
 
-1.Visit the official Power BI website: https://powerbi.microsoft.com/
+1. Visit the official Power BI website: https://powerbi.microsoft.com/
 
-2.Click on the "Products" tab at the top of the page.
+2. Click on the "Products" tab at the top of the page.
 
-3.From the drop-down menu, select "Power BI Desktop."
+3. From the drop-down menu, select "Power BI Desktop."
 
-4.On the Power BI Desktop page, click on the "Download" button.
+4. On the Power BI Desktop page, click on the "Download" button.
 
-5.You will be redirected to the download page. Select the version of Power BI Desktop that is compatible with your operating system (Windows or macOS).
+5. You will be redirected to the download page. Select the version of Power BI Desktop that is compatible with your operating system (Windows or macOS).
 
-6.Once the download is complete, locate the installer file on your computer and run it.
+6. Once the download is complete, locate the installer file on your computer and run it.
 
-7.The installation wizard will guide you through the installation process. Follow the on-screen instructions, and make sure to review and accept the license terms.
+7. The installation wizard will guide you through the installation process. Follow the on-screen instructions, and make sure to review and accept the license terms.
 
-8.During the installation, you can choose the installation location and any additional options you want to include.
+8. During the installation, you can choose the installation location and any additional options you want to include.
 
-9.Once the installation is complete, you can launch Power BI Desktop from your computer's Start menu or desktop shortcut.
+9. Once the installation is complete, you can launch Power BI Desktop from your computer's Start menu or desktop shortcut.
 
-10.When you open Power BI Desktop for the first time, you may be prompted to sign in with your Microsoft account or work/school account. Sign in using your credentials.
+10. When you open Power BI Desktop for the first time, you may be prompted to sign in with your Microsoft account or work/school account. Sign in using your credentials.
 
 ## 5. Python Installation:
 Ensure that Python is installed in the production environment, preferably using the same version that was used during the development of the dashboard. You can download the Python installer from the official Python website (https://www.python.org) and follow the provided installation instructions for your specific operating system.
